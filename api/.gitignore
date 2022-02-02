@@ -1,0 +1,11 @@
+# Backend .gitignore
+# ==================
+
+# Python environment
+/env
+
+# Python cache files
+__pycache__
+
+# Database files
+db.*
